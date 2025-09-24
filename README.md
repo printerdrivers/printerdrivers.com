@@ -25,5 +25,16 @@ With us, you’re not just getting the latest updates — you’re also getting 
 All website posts are published in the **Issues** tab.  
 Each **Issue = Blog Post / Driver Page**.  
 
+## 📢 Report an Issue
+
+Having trouble with a printer driver? We’re here to help!  
+
+1. Open a **New Issue**.  
+2. Tell us:  
+   - 🖥️ **What operating system** you are using (Windows, macOS, Linux, etc.).  
+   - 🖨️ **Which printer model/brand** you are using.  
+   - ⚠️ **What problem** you are facing (installation error, firmware update issue, missing driver, etc.).  
+3. Submit your report and we’ll review it.
+
 ### ⭐ Stay Connected
 Visit us at: [printerdrivers.com](https://printerdrivers.com)  
