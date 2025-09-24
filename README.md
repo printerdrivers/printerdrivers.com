@@ -21,3 +21,6 @@ Example: If HP or Epson retires an older driver, you can still find it here for 
 ⏳ Our goal is to maintain a complete and permanent library, so users never lose access to critical drivers.
 
 With us, you’re not just getting the latest updates — you’re also getting a long-term archive of printer drivers, ensuring compatibility and support for both modern and legacy devices.
+
+All website posts are published in the **Issues** tab.  
+Each **Issue = Blog Post / Driver Page**.  
