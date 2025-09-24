@@ -29,7 +29,7 @@ Having trouble with a printer driver? We’re here to help!
 2. Tell us:  
    - 🖥️ **What operating system** you are using (Windows, macOS, Linux, etc.).  
    - 🖨️ **Which printer model/brand** you are using.  
-   - ⚠️ **What problem** you are facing (installation error, firmware update issue, missing driver, etc.).  
+   - ⚠️ **What problem** you are facing (installation error, missing driver, etc.).  
 3. Submit your report and we’ll review it.  
 
 ---
